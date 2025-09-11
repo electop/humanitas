@@ -220,7 +220,7 @@
 - [MoMA 입체주의 설명](https://www.moma.org/learn/moma_learning/themes/cubism/)  
 - [루이 보크셀 비평 원문 분석](https://www.metmuseum.org/toah/hd/cube/hd_cube.htm)
 
-
+---
 
 ### 평론가 루이 르로이(Louis Leroy)의 인상주의 조롱 문구  
 **원문 (프랑스어):**  
