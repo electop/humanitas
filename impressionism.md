@@ -213,11 +213,19 @@
 
 ### 평론가 루이 르로이(Louis Leroy)의 인상주의 조롱 문구  
 **원문 (프랑스어):**  
-*"Impression, j’en étais sûr. Je me disais aussi, puisque je suis impressionné, il doit y avoir de l’impression là-dedans…"*  
+*"— Que représente cette toile? Voyez le livret.  
+*— 'Impression, Soleil Levant'.  
+*— Impression, j’en étais sûr. Je me disais aussi, puisque je suis impressionné, il doit y avoir de l’impression là-dedans… Et quelle liberté, quelle souplesse de technique! Un papier peint à l’état embryonnaire est encore plus fait que cette marine-là!  
+*— Mais vous, mon cher maître, vous en avez fait de plus belles!  
+*— Oh! moi, moi… je ne suis qu’un vieux classique, sans comprendre ces nouveautés… Voilà du Degas qu’on a copié là-dessus, et du Renoir, et du Monet… Comme c’est amusant!"  
 — 루이 르로이, 1874년 4월 25일 [르 샤리바리(Le Charivari)]지  
 
 **번역 (뉘앙스 반영):**  
-> "인상(印象)—분명히 그렇군. 나는 생각했어, 내가 ‘인상’을 받았으니 분명 작품 속에도 ‘인상’이 있을 거라고…"  
+> — 이 그림은 무엇을 표현한 것인가? 전시 책자를 보게.  
+> — '인상, 해돋이(Impression, Soleil Levant)'라네.  
+> — 인상(印象)—분명히 그렇군. 나는 생각했어, 내가 ‘인상’을 받았으니 분명 작품 속에도 ‘인상’이 있을 거라고… 게다가 이 기술적 자유와 유연함은! 초벌칠한 벽지조차 이 바다 풍경보다 완성도가 높아!  
+> — 하지만 당신, 친애하는 대가여, 당신은 더 훌륭한 작품을 만들었잖소!  
+> — 오! 나라면, 나는… 나는 그저 고전주의 노인일 뿐, 이런 새로운 것들은 이해할 수 없어… 여기 드가(Degas)의 작품도 있고, 르누아르(Renoir), 모네(Monet)의 것도 있군… 정말 재미있구만!  
 
 ### 번역 설명  
 - **"Impression"** → **"인상"**:  
@@ -228,6 +236,8 @@
 ### 역사적 맥락  
 - 이 문장은 1874년 첫 인상파 전시회 리뷰에서 등장.  
 - 이후 예술가들이 **조롱의 용어를 받아들여** 공식 명칭으로 정착시킴.  
+- 이 리뷰는 **인상주의(Impressionnisme)** 라는 용어가 공식화되는 결정적 계기가 되었습니다.  
+- 당시 비평계의 보수성을 반영하며, 이후 예술 비평이 **새로운 미학을 수용하는 데 장애물**이 되었음을 보여줍니다.
 
 ### 참고 자료  
 - [오르세 미술관 인상주의 설명](https://www.musee-orsay.fr/)  
