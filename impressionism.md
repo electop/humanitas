@@ -1,5 +1,4 @@
 
-
 ## **주요 인상파, 후기 인상파 및 점묘파 화가와 작품 정보**  
 
 | 화가      | 작품명                          | 연도  | 제작 나이 | 이미지 링크                                                                 | 세계사적 사건                                                                 | 특징/차이점                                                                                                |  
@@ -47,7 +46,7 @@
 
 이 사건들은 예술가들이 **현실 도피** 또는 **사회 비판**의 도구로 예술을 활용하는 배경이 되었습니다.
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
 ## **점묘파(Pointillism)와 인상파(Impressionism)의 관계**  
 점묘파는 **후기 인상주의(Post-Impressionism)**의 한 분파로, 인상파와는 기법과 예술적 목표에서 차이를 보입니다.  
@@ -67,7 +66,7 @@
 ### 결론  
 점묘파는 인상파와 동시대에 활동했으나, **독자적인 미술 운동**으로 분류됩니다. 후기 인상주의의 흐름 속에서 과학적 실험성을 강조한 점이 인상파와의 결정적 차이점입니다.
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
 ## **인상파에 영향을 미친 주요 발명품**  
 
@@ -110,7 +109,7 @@
 ### 결론  
 이 기술들은 인상파가 **빛과 색채의 순간적 포착**이라는 혁신을 이루는 데 결정적 역할을 했습니다.
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
 ### 합성 안료의 등장과 상품화  
 
@@ -145,9 +144,9 @@
 
 합성 안료는 예술의 **색채 혁명**을 주도하며 현대 미술과 산업 디자인의 토대를 마련했습니다.
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
-### 서양 미술사 주요 사조 요약 테이블 (한글/영어 병기)  
+### 서양 미술사 주요 사조 요약  
 
 | 미술 사조 | 시기          | 핵심 특징                     | 등장 배경                                                                 | 대표 작가 및 주요 작품                                                                 |  
 |------------------------|--------------|-----------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|  
@@ -169,7 +168,7 @@
 - **용어 정확성**: "신인상주의(Neo-Impressionism)"는 점묘법(Pointillism)을 포함한 포괄적 개념입니다.  
 - **역사적 맥락**: 각 사조는 기술 발전(예: 인쇄술, 사진)과 사회 변화(예: 혁명, 전쟁)의 영향을 받았습니다.
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
 ### 미술 사조 명명 계기가 된 작품  
 | 미술 사조 (영어)        | 작품명 (영어)                                      |  
@@ -209,7 +208,7 @@
 - [MoMA 입체주의 설명](https://www.moma.org/learn/moma_learning/themes/cubism/)  
 - [루이 보크셀 비평 원문 분석](https://www.metmuseum.org/toah/hd/cube/hd_cube.htm)
 
----
+<img src="https://static.vecteezy.com/system/resources/thumbnails/020/736/843/small_2x/cute-spring-vine-floral-divider-borders-silhouette-springtime-and-easter-flower-separators-design-elements-vector.jpg" >
 
 ### 평론가 루이 르로이(Louis Leroy)의 인상주의 조롱 문구  
 **원문 (프랑스어):**  
